@@ -1,0 +1,175 @@
+C:\Users\PC\source\repos\Login\Login\bin\Debug\Login.exe.config
+C:\Users\PC\source\repos\Login\Login\bin\Debug\Login.exe
+C:\Users\PC\source\repos\Login\Login\bin\Debug\Login.pdb
+C:\Users\PC\source\repos\Login\Login\obj\Debug\Login.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\Login\Login\obj\Debug\Login.Apresentação.BemVindo.resources
+C:\Users\PC\source\repos\Login\Login\obj\Debug\Login.Apresentação.Cadastro.resources
+C:\Users\PC\source\repos\Login\Login\obj\Debug\Login.Form1.resources
+C:\Users\PC\source\repos\Login\Login\obj\Debug\Login.Properties.Resources.resources
+C:\Users\PC\source\repos\Login\Login\obj\Debug\Login.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\Login\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Login\Login\obj\Debug\Login.exe
+C:\Users\PC\source\repos\Login\Login\obj\Debug\Login.pdb
+C:\Users\55129\Documents\Escola\Tcc\PrototipoTest\Prototipo Test\Login\Login\bin\Debug\Login.exe.config
+C:\Users\55129\Documents\Escola\Tcc\PrototipoTest\Prototipo Test\Login\Login\bin\Debug\Login.exe
+C:\Users\55129\Documents\Escola\Tcc\PrototipoTest\Prototipo Test\Login\Login\bin\Debug\Login.pdb
+C:\Users\55129\Documents\Escola\Tcc\PrototipoTest\Prototipo Test\Login\Login\obj\Debug\Login.csprojAssemblyReference.cache
+C:\Users\55129\Documents\Escola\Tcc\PrototipoTest\Prototipo Test\Login\Login\obj\Debug\Login.Apresentação.BemVindo.resources
+C:\Users\55129\Documents\Escola\Tcc\PrototipoTest\Prototipo Test\Login\Login\obj\Debug\Login.Apresentação.Cadastro.resources
+C:\Users\55129\Documents\Escola\Tcc\PrototipoTest\Prototipo Test\Login\Login\obj\Debug\Login.Form1.resources
+C:\Users\55129\Documents\Escola\Tcc\PrototipoTest\Prototipo Test\Login\Login\obj\Debug\Login.Properties.Resources.resources
+C:\Users\55129\Documents\Escola\Tcc\PrototipoTest\Prototipo Test\Login\Login\obj\Debug\Login.csproj.GenerateResource.cache
+C:\Users\55129\Documents\Escola\Tcc\PrototipoTest\Prototipo Test\Login\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+C:\Users\55129\Documents\Escola\Tcc\PrototipoTest\Prototipo Test\Login\Login\obj\Debug\Login.exe
+C:\Users\55129\Documents\Escola\Tcc\PrototipoTest\Prototipo Test\Login\Login\obj\Debug\Login.pdb
+C:\Users\55129\Documents\Escola\Tecnico\DS\LOgin\Prototipo Test\Login\Login\bin\Debug\Login.exe.config
+C:\Users\55129\Documents\Escola\Tecnico\DS\LOgin\Prototipo Test\Login\Login\bin\Debug\Login.exe
+C:\Users\55129\Documents\Escola\Tecnico\DS\LOgin\Prototipo Test\Login\Login\bin\Debug\Login.pdb
+C:\Users\55129\Documents\Escola\Tecnico\DS\LOgin\Prototipo Test\Login\Login\obj\Debug\Login.csprojAssemblyReference.cache
+C:\Users\55129\Documents\Escola\Tecnico\DS\LOgin\Prototipo Test\Login\Login\obj\Debug\Login.Apresentação.AdicionarSangue.resources
+C:\Users\55129\Documents\Escola\Tecnico\DS\LOgin\Prototipo Test\Login\Login\obj\Debug\Login.Apresentação.BemVindo.resources
+C:\Users\55129\Documents\Escola\Tecnico\DS\LOgin\Prototipo Test\Login\Login\obj\Debug\Login.Apresentação.Cadastro.resources
+C:\Users\55129\Documents\Escola\Tecnico\DS\LOgin\Prototipo Test\Login\Login\obj\Debug\Login.Form1.resources
+C:\Users\55129\Documents\Escola\Tecnico\DS\LOgin\Prototipo Test\Login\Login\obj\Debug\Login.Properties.Resources.resources
+C:\Users\55129\Documents\Escola\Tecnico\DS\LOgin\Prototipo Test\Login\Login\obj\Debug\Login.csproj.GenerateResource.cache
+C:\Users\55129\Documents\Escola\Tecnico\DS\LOgin\Prototipo Test\Login\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+C:\Users\55129\Documents\Escola\Tecnico\DS\LOgin\Prototipo Test\Login\Login\obj\Debug\Login.exe
+C:\Users\55129\Documents\Escola\Tecnico\DS\LOgin\Prototipo Test\Login\Login\obj\Debug\Login.pdb
+C:\Users\55129\Documents\Escola\Tecnico\DS\LOgin\Prototipo Test\Login\Login\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\55129\Documents\Escola\Tecnico\DS\LOgin\Prototipo Test\Login\Login\bin\Debug\Google.Protobuf.dll
+C:\Users\55129\Documents\Escola\Tecnico\DS\LOgin\Prototipo Test\Login\Login\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\55129\Documents\Escola\Tecnico\DS\LOgin\Prototipo Test\Login\Login\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\55129\Documents\Escola\Tecnico\DS\LOgin\Prototipo Test\Login\Login\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\55129\Documents\Escola\Tecnico\DS\LOgin\Prototipo Test\Login\Login\bin\Debug\MySql.Data.dll
+C:\Users\55129\Documents\Escola\Tecnico\DS\LOgin\Prototipo Test\Login\Login\bin\Debug\Renci.SshNet.dll
+C:\Users\55129\Documents\Escola\Tecnico\DS\LOgin\Prototipo Test\Login\Login\bin\Debug\System.Buffers.dll
+C:\Users\55129\Documents\Escola\Tecnico\DS\LOgin\Prototipo Test\Login\Login\bin\Debug\System.Memory.dll
+C:\Users\55129\Documents\Escola\Tecnico\DS\LOgin\Prototipo Test\Login\Login\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\55129\Documents\Escola\Tecnico\DS\LOgin\Prototipo Test\Login\Login\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\55129\Documents\Escola\Tecnico\DS\LOgin\Prototipo Test\Login\Login\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\55129\Documents\Escola\Tecnico\DS\LOgin\Prototipo Test\Login\Login\bin\Debug\Zstandard.Net.dll
+C:\Users\55129\Documents\Escola\Tecnico\DS\LOgin\Prototipo Test\Login\Login\bin\Debug\Google.Protobuf.xml
+C:\Users\55129\Documents\Escola\Tecnico\DS\LOgin\Prototipo Test\Login\Login\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\55129\Documents\Escola\Tecnico\DS\LOgin\Prototipo Test\Login\Login\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\55129\Documents\Escola\Tecnico\DS\LOgin\Prototipo Test\Login\Login\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\55129\Documents\Escola\Tecnico\DS\LOgin\Prototipo Test\Login\Login\bin\Debug\MySql.Data.xml
+C:\Users\55129\Documents\Escola\Tecnico\DS\LOgin\Prototipo Test\Login\Login\bin\Debug\Renci.SshNet.xml
+C:\Users\55129\Documents\Escola\Tecnico\DS\LOgin\Prototipo Test\Login\Login\bin\Debug\System.Buffers.xml
+C:\Users\55129\Documents\Escola\Tecnico\DS\LOgin\Prototipo Test\Login\Login\bin\Debug\System.Memory.xml
+C:\Users\55129\Documents\Escola\Tecnico\DS\LOgin\Prototipo Test\Login\Login\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\55129\Documents\Escola\Tecnico\DS\LOgin\Prototipo Test\Login\Login\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\55129\Documents\Escola\Tecnico\DS\LOgin\Prototipo Test\Login\Login\obj\Debug\Login.csproj.CopyComplete
+C:\Users\55129\Documents\Escola\Tecnico\DS\LOgin - Backup\Prototipo Test\Login\Login\bin\Debug\Login.exe.config
+C:\Users\55129\Documents\Escola\Tecnico\DS\LOgin - Backup\Prototipo Test\Login\Login\bin\Debug\Login.exe
+C:\Users\55129\Documents\Escola\Tecnico\DS\LOgin - Backup\Prototipo Test\Login\Login\bin\Debug\Login.pdb
+C:\Users\55129\Documents\Escola\Tecnico\DS\LOgin - Backup\Prototipo Test\Login\Login\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\55129\Documents\Escola\Tecnico\DS\LOgin - Backup\Prototipo Test\Login\Login\bin\Debug\Google.Protobuf.dll
+C:\Users\55129\Documents\Escola\Tecnico\DS\LOgin - Backup\Prototipo Test\Login\Login\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\55129\Documents\Escola\Tecnico\DS\LOgin - Backup\Prototipo Test\Login\Login\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\55129\Documents\Escola\Tecnico\DS\LOgin - Backup\Prototipo Test\Login\Login\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\55129\Documents\Escola\Tecnico\DS\LOgin - Backup\Prototipo Test\Login\Login\bin\Debug\MySql.Data.dll
+C:\Users\55129\Documents\Escola\Tecnico\DS\LOgin - Backup\Prototipo Test\Login\Login\bin\Debug\Renci.SshNet.dll
+C:\Users\55129\Documents\Escola\Tecnico\DS\LOgin - Backup\Prototipo Test\Login\Login\bin\Debug\System.Buffers.dll
+C:\Users\55129\Documents\Escola\Tecnico\DS\LOgin - Backup\Prototipo Test\Login\Login\bin\Debug\System.Memory.dll
+C:\Users\55129\Documents\Escola\Tecnico\DS\LOgin - Backup\Prototipo Test\Login\Login\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\55129\Documents\Escola\Tecnico\DS\LOgin - Backup\Prototipo Test\Login\Login\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\55129\Documents\Escola\Tecnico\DS\LOgin - Backup\Prototipo Test\Login\Login\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\55129\Documents\Escola\Tecnico\DS\LOgin - Backup\Prototipo Test\Login\Login\bin\Debug\Zstandard.Net.dll
+C:\Users\55129\Documents\Escola\Tecnico\DS\LOgin - Backup\Prototipo Test\Login\Login\bin\Debug\Google.Protobuf.xml
+C:\Users\55129\Documents\Escola\Tecnico\DS\LOgin - Backup\Prototipo Test\Login\Login\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\55129\Documents\Escola\Tecnico\DS\LOgin - Backup\Prototipo Test\Login\Login\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\55129\Documents\Escola\Tecnico\DS\LOgin - Backup\Prototipo Test\Login\Login\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\55129\Documents\Escola\Tecnico\DS\LOgin - Backup\Prototipo Test\Login\Login\bin\Debug\MySql.Data.xml
+C:\Users\55129\Documents\Escola\Tecnico\DS\LOgin - Backup\Prototipo Test\Login\Login\bin\Debug\Renci.SshNet.xml
+C:\Users\55129\Documents\Escola\Tecnico\DS\LOgin - Backup\Prototipo Test\Login\Login\bin\Debug\System.Buffers.xml
+C:\Users\55129\Documents\Escola\Tecnico\DS\LOgin - Backup\Prototipo Test\Login\Login\bin\Debug\System.Memory.xml
+C:\Users\55129\Documents\Escola\Tecnico\DS\LOgin - Backup\Prototipo Test\Login\Login\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\55129\Documents\Escola\Tecnico\DS\LOgin - Backup\Prototipo Test\Login\Login\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\55129\Documents\Escola\Tecnico\DS\LOgin - Backup\Prototipo Test\Login\Login\obj\Debug\Login.csprojAssemblyReference.cache
+C:\Users\55129\Documents\Escola\Tecnico\DS\LOgin - Backup\Prototipo Test\Login\Login\obj\Debug\Login.Apresentação.AdicionarSangue.resources
+C:\Users\55129\Documents\Escola\Tecnico\DS\LOgin - Backup\Prototipo Test\Login\Login\obj\Debug\Login.Apresentação.BemVindo.resources
+C:\Users\55129\Documents\Escola\Tecnico\DS\LOgin - Backup\Prototipo Test\Login\Login\obj\Debug\Login.Apresentação.Cadastro.resources
+C:\Users\55129\Documents\Escola\Tecnico\DS\LOgin - Backup\Prototipo Test\Login\Login\obj\Debug\Login.Form1.resources
+C:\Users\55129\Documents\Escola\Tecnico\DS\LOgin - Backup\Prototipo Test\Login\Login\obj\Debug\Login.Properties.Resources.resources
+C:\Users\55129\Documents\Escola\Tecnico\DS\LOgin - Backup\Prototipo Test\Login\Login\obj\Debug\Login.csproj.GenerateResource.cache
+C:\Users\55129\Documents\Escola\Tecnico\DS\LOgin - Backup\Prototipo Test\Login\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+C:\Users\55129\Documents\Escola\Tecnico\DS\LOgin - Backup\Prototipo Test\Login\Login\obj\Debug\Login.csproj.CopyComplete
+C:\Users\55129\Documents\Escola\Tecnico\DS\LOgin - Backup\Prototipo Test\Login\Login\obj\Debug\Login.exe
+C:\Users\55129\Documents\Escola\Tecnico\DS\LOgin - Backup\Prototipo Test\Login\Login\obj\Debug\Login.pdb
+C:\Users\55129\Documents\Escola\Tecnico\DS\LOgin TCC\Prototipo Test\Login\Login\bin\Debug\Login.exe.config
+C:\Users\55129\Documents\Escola\Tecnico\DS\LOgin TCC\Prototipo Test\Login\Login\bin\Debug\Login.exe
+C:\Users\55129\Documents\Escola\Tecnico\DS\LOgin TCC\Prototipo Test\Login\Login\bin\Debug\Login.pdb
+C:\Users\55129\Documents\Escola\Tecnico\DS\LOgin TCC\Prototipo Test\Login\Login\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\55129\Documents\Escola\Tecnico\DS\LOgin TCC\Prototipo Test\Login\Login\bin\Debug\Google.Protobuf.dll
+C:\Users\55129\Documents\Escola\Tecnico\DS\LOgin TCC\Prototipo Test\Login\Login\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\55129\Documents\Escola\Tecnico\DS\LOgin TCC\Prototipo Test\Login\Login\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\55129\Documents\Escola\Tecnico\DS\LOgin TCC\Prototipo Test\Login\Login\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\55129\Documents\Escola\Tecnico\DS\LOgin TCC\Prototipo Test\Login\Login\bin\Debug\MySql.Data.dll
+C:\Users\55129\Documents\Escola\Tecnico\DS\LOgin TCC\Prototipo Test\Login\Login\bin\Debug\Renci.SshNet.dll
+C:\Users\55129\Documents\Escola\Tecnico\DS\LOgin TCC\Prototipo Test\Login\Login\bin\Debug\System.Buffers.dll
+C:\Users\55129\Documents\Escola\Tecnico\DS\LOgin TCC\Prototipo Test\Login\Login\bin\Debug\System.Memory.dll
+C:\Users\55129\Documents\Escola\Tecnico\DS\LOgin TCC\Prototipo Test\Login\Login\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\55129\Documents\Escola\Tecnico\DS\LOgin TCC\Prototipo Test\Login\Login\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\55129\Documents\Escola\Tecnico\DS\LOgin TCC\Prototipo Test\Login\Login\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\55129\Documents\Escola\Tecnico\DS\LOgin TCC\Prototipo Test\Login\Login\bin\Debug\Zstandard.Net.dll
+C:\Users\55129\Documents\Escola\Tecnico\DS\LOgin TCC\Prototipo Test\Login\Login\bin\Debug\Google.Protobuf.xml
+C:\Users\55129\Documents\Escola\Tecnico\DS\LOgin TCC\Prototipo Test\Login\Login\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\55129\Documents\Escola\Tecnico\DS\LOgin TCC\Prototipo Test\Login\Login\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\55129\Documents\Escola\Tecnico\DS\LOgin TCC\Prototipo Test\Login\Login\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\55129\Documents\Escola\Tecnico\DS\LOgin TCC\Prototipo Test\Login\Login\bin\Debug\MySql.Data.xml
+C:\Users\55129\Documents\Escola\Tecnico\DS\LOgin TCC\Prototipo Test\Login\Login\bin\Debug\Renci.SshNet.xml
+C:\Users\55129\Documents\Escola\Tecnico\DS\LOgin TCC\Prototipo Test\Login\Login\bin\Debug\System.Buffers.xml
+C:\Users\55129\Documents\Escola\Tecnico\DS\LOgin TCC\Prototipo Test\Login\Login\bin\Debug\System.Memory.xml
+C:\Users\55129\Documents\Escola\Tecnico\DS\LOgin TCC\Prototipo Test\Login\Login\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\55129\Documents\Escola\Tecnico\DS\LOgin TCC\Prototipo Test\Login\Login\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\55129\Documents\Escola\Tecnico\DS\LOgin TCC\Prototipo Test\Login\Login\obj\Debug\Login.csprojAssemblyReference.cache
+C:\Users\55129\Documents\Escola\Tecnico\DS\LOgin TCC\Prototipo Test\Login\Login\obj\Debug\Login.Apresentação.AdicionarSangue.resources
+C:\Users\55129\Documents\Escola\Tecnico\DS\LOgin TCC\Prototipo Test\Login\Login\obj\Debug\Login.Apresentação.BemVindo.resources
+C:\Users\55129\Documents\Escola\Tecnico\DS\LOgin TCC\Prototipo Test\Login\Login\obj\Debug\Login.Apresentação.Cadastro.resources
+C:\Users\55129\Documents\Escola\Tecnico\DS\LOgin TCC\Prototipo Test\Login\Login\obj\Debug\Login.Form1.resources
+C:\Users\55129\Documents\Escola\Tecnico\DS\LOgin TCC\Prototipo Test\Login\Login\obj\Debug\Login.Properties.Resources.resources
+C:\Users\55129\Documents\Escola\Tecnico\DS\LOgin TCC\Prototipo Test\Login\Login\obj\Debug\Login.csproj.GenerateResource.cache
+C:\Users\55129\Documents\Escola\Tecnico\DS\LOgin TCC\Prototipo Test\Login\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+C:\Users\55129\Documents\Escola\Tecnico\DS\LOgin TCC\Prototipo Test\Login\Login\obj\Debug\Login.csproj.CopyComplete
+C:\Users\55129\Documents\Escola\Tecnico\DS\LOgin TCC\Prototipo Test\Login\Login\obj\Debug\Login.exe
+C:\Users\55129\Documents\Escola\Tecnico\DS\LOgin TCC\Prototipo Test\Login\Login\obj\Debug\Login.pdb
+C:\Users\55129\Documents\Escola\Tecnico\DS\LOgin TCC\Prototipo Test\Login\Login\bin\Debug\JTextBox.dll
+C:\Users\55129\Documents\Escola\Tecnico\DS\LOgin TCC\Prototipo Test\Login\Login\obj\Debug\Login.ConsultarSangueCliente.resources
+D:\TCC\LOgin TCC -  SANGUIS CARE\SANGUIS CARE TCC\SANGUIS CARE TCC\Login\bin\Debug\Login.exe.config
+D:\TCC\LOgin TCC -  SANGUIS CARE\SANGUIS CARE TCC\SANGUIS CARE TCC\Login\bin\Debug\Login.exe
+D:\TCC\LOgin TCC -  SANGUIS CARE\SANGUIS CARE TCC\SANGUIS CARE TCC\Login\bin\Debug\Login.pdb
+D:\TCC\LOgin TCC -  SANGUIS CARE\SANGUIS CARE TCC\SANGUIS CARE TCC\Login\bin\Debug\BouncyCastle.Crypto.dll
+D:\TCC\LOgin TCC -  SANGUIS CARE\SANGUIS CARE TCC\SANGUIS CARE TCC\Login\bin\Debug\Google.Protobuf.dll
+D:\TCC\LOgin TCC -  SANGUIS CARE\SANGUIS CARE TCC\SANGUIS CARE TCC\Login\bin\Debug\K4os.Compression.LZ4.dll
+D:\TCC\LOgin TCC -  SANGUIS CARE\SANGUIS CARE TCC\SANGUIS CARE TCC\Login\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\TCC\LOgin TCC -  SANGUIS CARE\SANGUIS CARE TCC\SANGUIS CARE TCC\Login\bin\Debug\K4os.Hash.xxHash.dll
+D:\TCC\LOgin TCC -  SANGUIS CARE\SANGUIS CARE TCC\SANGUIS CARE TCC\Login\bin\Debug\MySql.Data.dll
+D:\TCC\LOgin TCC -  SANGUIS CARE\SANGUIS CARE TCC\SANGUIS CARE TCC\Login\bin\Debug\Renci.SshNet.dll
+D:\TCC\LOgin TCC -  SANGUIS CARE\SANGUIS CARE TCC\SANGUIS CARE TCC\Login\bin\Debug\System.Buffers.dll
+D:\TCC\LOgin TCC -  SANGUIS CARE\SANGUIS CARE TCC\SANGUIS CARE TCC\Login\bin\Debug\System.Memory.dll
+D:\TCC\LOgin TCC -  SANGUIS CARE\SANGUIS CARE TCC\SANGUIS CARE TCC\Login\bin\Debug\System.Numerics.Vectors.dll
+D:\TCC\LOgin TCC -  SANGUIS CARE\SANGUIS CARE TCC\SANGUIS CARE TCC\Login\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\TCC\LOgin TCC -  SANGUIS CARE\SANGUIS CARE TCC\SANGUIS CARE TCC\Login\bin\Debug\Ubiety.Dns.Core.dll
+D:\TCC\LOgin TCC -  SANGUIS CARE\SANGUIS CARE TCC\SANGUIS CARE TCC\Login\bin\Debug\Zstandard.Net.dll
+D:\TCC\LOgin TCC -  SANGUIS CARE\SANGUIS CARE TCC\SANGUIS CARE TCC\Login\bin\Debug\Google.Protobuf.xml
+D:\TCC\LOgin TCC -  SANGUIS CARE\SANGUIS CARE TCC\SANGUIS CARE TCC\Login\bin\Debug\K4os.Compression.LZ4.xml
+D:\TCC\LOgin TCC -  SANGUIS CARE\SANGUIS CARE TCC\SANGUIS CARE TCC\Login\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\TCC\LOgin TCC -  SANGUIS CARE\SANGUIS CARE TCC\SANGUIS CARE TCC\Login\bin\Debug\K4os.Hash.xxHash.xml
+D:\TCC\LOgin TCC -  SANGUIS CARE\SANGUIS CARE TCC\SANGUIS CARE TCC\Login\bin\Debug\MySql.Data.xml
+D:\TCC\LOgin TCC -  SANGUIS CARE\SANGUIS CARE TCC\SANGUIS CARE TCC\Login\bin\Debug\Renci.SshNet.xml
+D:\TCC\LOgin TCC -  SANGUIS CARE\SANGUIS CARE TCC\SANGUIS CARE TCC\Login\bin\Debug\System.Buffers.xml
+D:\TCC\LOgin TCC -  SANGUIS CARE\SANGUIS CARE TCC\SANGUIS CARE TCC\Login\bin\Debug\System.Memory.xml
+D:\TCC\LOgin TCC -  SANGUIS CARE\SANGUIS CARE TCC\SANGUIS CARE TCC\Login\bin\Debug\System.Numerics.Vectors.xml
+D:\TCC\LOgin TCC -  SANGUIS CARE\SANGUIS CARE TCC\SANGUIS CARE TCC\Login\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\TCC\LOgin TCC -  SANGUIS CARE\SANGUIS CARE TCC\SANGUIS CARE TCC\Login\obj\Debug\Login.csprojAssemblyReference.cache
+D:\TCC\LOgin TCC -  SANGUIS CARE\SANGUIS CARE TCC\SANGUIS CARE TCC\Login\obj\Debug\Login.Apresentação.AdicionarSangue.resources
+D:\TCC\LOgin TCC -  SANGUIS CARE\SANGUIS CARE TCC\SANGUIS CARE TCC\Login\obj\Debug\Login.Apresentação.BemVindo.resources
+D:\TCC\LOgin TCC -  SANGUIS CARE\SANGUIS CARE TCC\SANGUIS CARE TCC\Login\obj\Debug\Login.Apresentação.Cadastro.resources
+D:\TCC\LOgin TCC -  SANGUIS CARE\SANGUIS CARE TCC\SANGUIS CARE TCC\Login\obj\Debug\Login.Form1.resources
+D:\TCC\LOgin TCC -  SANGUIS CARE\SANGUIS CARE TCC\SANGUIS CARE TCC\Login\obj\Debug\Login.ConsultarSangueCliente.resources
+D:\TCC\LOgin TCC -  SANGUIS CARE\SANGUIS CARE TCC\SANGUIS CARE TCC\Login\obj\Debug\Login.Properties.Resources.resources
+D:\TCC\LOgin TCC -  SANGUIS CARE\SANGUIS CARE TCC\SANGUIS CARE TCC\Login\obj\Debug\Login.csproj.GenerateResource.cache
+D:\TCC\LOgin TCC -  SANGUIS CARE\SANGUIS CARE TCC\SANGUIS CARE TCC\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+D:\TCC\LOgin TCC -  SANGUIS CARE\SANGUIS CARE TCC\SANGUIS CARE TCC\Login\obj\Debug\Login.csproj.CopyComplete
+D:\TCC\LOgin TCC -  SANGUIS CARE\SANGUIS CARE TCC\SANGUIS CARE TCC\Login\obj\Debug\Login.exe
+D:\TCC\LOgin TCC -  SANGUIS CARE\SANGUIS CARE TCC\SANGUIS CARE TCC\Login\obj\Debug\Login.pdb
