@@ -12,10 +12,10 @@
 
 ## ⚡️ Tecnologias Utilizadas ⚡️
 
-##### 🔹C#
-##### 🔹MySQL
+#### 🔹C#
+#### 🔹MySQL
 
 
-## 🟢 Informações Adicionais 🟢
+### 🟢 Informações Adicionais 🟢
 ##### Abaixo deixo o link do video, enviado aos professor na ultima semana de revisão do projeto
 https://youtu.be/tC99WtxfYJ0
